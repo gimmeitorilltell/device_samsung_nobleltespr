@@ -1,3 +1,3 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/device.mk \
-    $(LOCAL_DIR)/omni_nobleltespr.mk
+    $(LOCAL_DIR)/candy_nobleltespr.mk
